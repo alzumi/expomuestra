@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/expotecnologiaPwa/sw.js';
+var swLocation = '/expomuestra/sw.js';
 
 
 if (navigator.serviceWorker) {
